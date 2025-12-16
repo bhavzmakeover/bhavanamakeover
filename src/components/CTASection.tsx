@@ -84,7 +84,7 @@ const CTASection = () => {
 
           {/* CTA Button */}
           <a
-            href="https://wa.me/919876543210?text=Hi%20Bhavzz%20Makeover!%20I'm%20interested%20in%20a%20custom%20package."
+            href="https://wa.me/918861509324?text=Hi%20Bhavzz%20Makeover!%20I'm%20interested%20in%20a%20custom%20package."
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-3 px-10 py-5 bg-gradient-gold text-primary-foreground font-body font-semibold tracking-wide rounded-full shadow-gold transition-all duration-300 hover:shadow-float hover:scale-105"
